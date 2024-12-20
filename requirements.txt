@@ -14,3 +14,7 @@ streamlit
 
 arxiv
 wikipedia
+
+langchain-cli
+langserve[all]
+poetry
