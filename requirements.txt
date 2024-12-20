@@ -11,3 +11,6 @@ langchain-pinecone
 pinecone
 pypdf
 streamlit
+
+arxiv
+wikipedia
